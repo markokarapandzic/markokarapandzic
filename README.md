@@ -1,5 +1,5 @@
 ### Hi there, I'm Marko - [website] 👋
-My email address: *markokarapandzic1@gmail.com*
+My email address: *karapandzicmarko1@gmail.com*
 
 ## I'm a Student, Developer and generally interested in Tech!
 - 🧑‍💻 I’m currently learning everything 😃
