@@ -1,10 +1,10 @@
 ### Hi there, I'm Marko - [website] 👋
 My email address: *karapandzicmarko1@gmail.com*
 
-## I'm a Student, Developer and generally interested in Tech!
+## I'm a Developer and generally interested in Tech!
 - 🧑‍💻  I’m currently learning everything 😃
 - 🧑‍🤝‍🧑  I’m open to connect with people
-- 🥅  2020 Goals: Learn more about Full-Stack JavaScript Development
+- 🥅  2022 Goals: Learn more about Full-Stack JavaScript Development
 
 ### Connect with me:
 
